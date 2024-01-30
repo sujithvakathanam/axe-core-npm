@@ -1,6 +1,6 @@
 {
   "name": "@refi/axe-core-npm",
-  "private": true,
+  "private": false,
   "license": "MPL-2.0",
   "workspaces": [
     "packages/*",
