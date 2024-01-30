@@ -1,5 +1,5 @@
 {
-  "name": "@axe-core/react",
+  "name": "@refi-axe-core/react",
   "version": "4.8.4",
   "description": "Dynamic accessibility analysis for React using axe-core",
   "main": "./dist/index.js",

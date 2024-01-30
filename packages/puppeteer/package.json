@@ -1,5 +1,5 @@
 {
-  "name": "@axe-core/puppeteer",
+  "name": "@refi-axe-core/puppeteer",
   "version": "4.8.4",
   "description": "Provides a chainable axe API for Puppeteer and automatically injects into all frames",
   "repository": {
