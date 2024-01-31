@@ -1,5 +1,5 @@
 {
-  "name": "@refi-axe-core/reporter-earl",
+  "name": "@svakathanam-axe-core/reporter-earl",
   "version": "4.8.4",
   "description": "A EARL+JSON-LD reporter for axe-core",
   "main": "dist/axeReporterEarl.js",

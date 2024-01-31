@@ -1,5 +1,5 @@
 {
-  "name": "@refi-axe-core/cli",
+  "name": "@svakathanam-axe-core/cli",
   "version": "4.8.4",
   "description": "A CLI for accessibility testing using axe-core",
   "author": {
